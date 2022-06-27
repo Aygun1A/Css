@@ -1,0 +1,66 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: red;
+}
+
+
+header{
+    background-color: beige;
+}
+header img{
+    height: 40px;
+    width: 40px;
+}
+header h3{
+color: blue;
+text-shadow: 4px 4px 4px gray;
+text-align:center;
+}
+header h2{
+    text-shadow: 4px 4px 4px gray;
+    color: red;
+}
+footer{
+    background-color: beige;
+    
+    
+}
+footer nav{
+    text-align: center;
+    
+        
+}
+footer nav img{
+    
+    height: 40px;
+    width: 40px;
+    
+    
+}
+section{
+    
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+section div{
+    height: 100px;
+    width: 100px;
+    
+    border:solid 2px blue;
+    text-align: right;
+    display: inline-block;
+    background-color: bisque;
+}
+section div img{
+    height: 100px;
+    width: 100px;
+    
+}
